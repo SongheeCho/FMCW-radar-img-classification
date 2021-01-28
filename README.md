@@ -14,7 +14,7 @@ FMCW-radar-img-classification는 radar 영상 데이터 활용 머신러닝 프�
 
 프로젝트 특성에 따라 추가적 항목이 있을 수 있습니다.
 
-### **피드백을 환영합니다!** 🌿
+### **피드백을 환영합니다!(Feedbacks are always welcome)** 🌿
 
 오류 혹은 추가적 조언이 있으시다면 comment를 남겨주세요.
 
